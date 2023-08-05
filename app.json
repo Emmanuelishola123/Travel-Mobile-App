@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "ReactNativeUI",
-    "slug": "ReactNativeUI",
+    "name": "Trave Mobile App",
+    "slug": "TraveMobileApp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,17 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "db6185bf-c800-4073-8c4d-61487d4fe0d5"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/db6185bf-c800-4073-8c4d-61487d4fe0d5"
     }
   }
 }
