@@ -17,6 +17,6 @@ npx expo start
 
 ### 👇 Follow me;
 - https://github.com/emmanuelishola123
-- https://twitter.com/Engr__SoluTion
+- https://twitter.com/EmmanuelIshola0
 - https://www.linkedin.com/in/emmanuelishola1/
 - https://www.instagram.com/emmanuel__ishola/
